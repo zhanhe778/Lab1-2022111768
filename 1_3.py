@@ -8,10 +8,13 @@ import msvcrt  # Windows-specific module for keyboard input
 import time
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 #zhanhe
 
 >>>>>>> C4
+=======
+>>>>>>> B2
 class TextGraph:
     def __init__(self):
         self.graph = defaultdict(dict)  # Adjacency list representation
@@ -382,8 +385,12 @@ def main():
 if __name__ == "__main__":
     main()
 <<<<<<< HEAD
+<<<<<<< HEAD
     #   D i f f e r e n t   c h a n g e  
 =======
     #   T e s t   c h a n g e  
 >>>>>>> C4
+=======
+    #   D i f f e r e n t   c h a n g e  
+>>>>>>> B2
  
